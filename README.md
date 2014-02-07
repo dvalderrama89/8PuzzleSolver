@@ -12,7 +12,9 @@ Example
 --------
 If TESTINPUT.txt = 
 2 3 X
+
 1 4 5
+
 7 8 6
 
 Then SOLUTION.txt contains:
