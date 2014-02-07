@@ -11,12 +11,9 @@ where TESTINPUT is made up of a 3x3 puzzle using 'X' as the blank space
 Example
 --------
 If TESTINPUT.txt = 
-
-2 3 X
-
-1 4 5
-
-7 8 6
+  2 3 X
+  1 4 5
+  7 8 6
 
 Then SOLUTION.txt contains:
 
