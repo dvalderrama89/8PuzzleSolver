@@ -18,8 +18,8 @@ If TESTINPUT.txt =
 
 Then SOLUTION.txt contains:
 
-lldrrd
-0 seconds
+    lldrrd
+    0 seconds
 
 Known Issues
 ------------
